@@ -4,11 +4,6 @@ hello, let me introduce myself
 
 my name is <strong>Yuri</strong> and I'm a <strong>Front-End Dev</strong>
 
-
-## This is my social network
-If you want to contact me...☕
-
-
 ### TECHNOLOGY
 <div style="display: inline_block"> <br>
     <img align="center" alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
