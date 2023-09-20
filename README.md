@@ -2,19 +2,11 @@
 
 hello, let me introduce myself
 
-my name is <strong>Yuri</strong> and I'm a <strong>Front-End Dev</strong>, I'm studying Systems Analysis and Development at *Estácio de Sá*.
+my name is <strong>Yuri</strong> and I'm a <strong>Front-End Dev</strong>
 
-On my GitHub you can see some projects I've done, hope you like it 😊
 
 ## This is my social network
 If you want to contact me...☕
-
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/yurisouzadev/)
-
-## My Exp
-![Yuri Souza GitHub stats](https://github-readme-stats.vercel.app/api?username=yskawtter&show_icons=true&theme=tokyonight)
 
 
 ### TECHNOLOGY
